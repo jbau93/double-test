@@ -9,7 +9,8 @@
 3. Run the application
 4. Test the API in a HTTP client of preference, for example Postman.  
 
-Endpoints:
+Endpoints:  
+
 GET: api/v1/ticket/all  
 
 GET: api/v1/ticket/{ticketId}
